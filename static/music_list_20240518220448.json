@@ -1,0 +1,63 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "54553b56c451500e73d4c60b47ce8d10",
+                "name": "Aleshir Newayi1",
+                "artist": "",
+                "album": "",
+                "url": "static/Eleshir Newayi/Aleshir Newayi1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "54553b56c451500e73d4c60b47ce8d10",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "ab80725015bb038449f71fedfdd76859",
+                "name": "Aleshir Newayi2",
+                "artist": "",
+                "album": "",
+                "url": "static/Eleshir Newayi/Aleshir Newayi2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "ab80725015bb038449f71fedfdd76859",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "0f7d6be01b1cd09b4f6dfc02ccfe7369",
+                "name": "Aleshir Newayi3",
+                "artist": "",
+                "album": "",
+                "url": "static/Eleshir Newayi/Aleshir Newayi3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "0f7d6be01b1cd09b4f6dfc02ccfe7369",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "7da0d753a415c20ce486367d7b049c59",
+                "name": "Aleshir Newayi4",
+                "artist": "",
+                "album": "",
+                "url": "static/Eleshir Newayi/Aleshir Newayi4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "7da0d753a415c20ce486367d7b049c59",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
